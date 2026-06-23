@@ -15,10 +15,10 @@ The website automatically generates a formatted WhatsApp order message and sends
 - Easy Customer Support via WhatsApp
 - Suitable for Resellers, Meesho Sellers, Small Businesses, and Online Stores
 
-#Contact
+# Contact
 
-#WhatsApp: +91 7737449178
+# WhatsApp: +91 7737449178
 
-#PhonePe: 7737449178
+# PhonePe: 7737449178
 
 Easy Order Booking helps businesses collect customer orders quickly without requiring a complex e-commerce system.
