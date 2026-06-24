@@ -17,15 +17,7 @@ const payment=document.getElementById("payment").value;
 const utr=document.getElementById("utr").value;
 const amount=document.getElementById("amount").value;
 
-form.addEventListener("submit", function(e){
-
-e.preventDefault();
-
-document.getElementById("successMsg").style.display = "block";
-
-form.reset();
-
-});
+alert("✅ Order Submitted Successfully");
 
 let message=
 `🛒 Easy Order Booking
