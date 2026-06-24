@@ -71,4 +71,15 @@ margin-top:10px;
 padding:10px;
 background:#f8f8f8;
 border-radius:10px;
+
+#successMsg{
+display:none;
+margin-top:15px;
+padding:15px;
+background:#dcfce7;
+color:#15803d;
+border-radius:10px;
+text-align:center;
+font-weight:bold;
+}
 }
