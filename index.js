@@ -51,11 +51,7 @@ window.open(
       "_blank"
     );
 
-    alert("Order Successfully Submitted");
-    form.reset();
-
-  } catch (error) {
-    alert("Error: " + error.message);
+ 
 
 
 });
