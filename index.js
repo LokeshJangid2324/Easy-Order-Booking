@@ -16,8 +16,16 @@ const notes=document.getElementById("notes").value;
 const payment=document.getElementById("payment").value;
 const utr=document.getElementById("utr").value;
 const amount=document.getElementById("amount").value;
-document.getElementById("successMsg").innerHTML =
-"✅ Order Submitted Successfully";
+
+form.addEventListener("submit", function(e){
+
+e.preventDefault();
+
+document.getElementById("successMsg").style.display = "block";
+
+form.reset();
+
+});
 
 let message=
 `🛒 Easy Order Booking
