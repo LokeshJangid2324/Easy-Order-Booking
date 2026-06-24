@@ -46,10 +46,12 @@ let message=
 
 📝 Notes: ${notes}`;
 
+
+
 window.open(
-      `https://wa.me/917737449178text=${encodeURIComponent(whatsappMessage)}`,
-      "_blank"
-    );
+`https://wa.me/917737449178?text=${encodeURIComponent(message)}`,
+"_blank"
+  );
 
  
 
