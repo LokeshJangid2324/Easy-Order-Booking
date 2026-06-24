@@ -47,8 +47,15 @@ let message=
 📝 Notes: ${notes}`;
 
 window.open(
-`https://wa.me/917737449178?text=${encodeURIComponent(message)}`,
-"_blank"
-);
+      `https://wa.me/91773744XXXX?text=${encodeURIComponent(whatsappMessage)}`,
+      "_blank"
+    );
+
+    alert("Order Successfully Submitted");
+    form.reset();
+
+  } catch (error) {
+    alert("Error: " + error.message);
+
 
 });
