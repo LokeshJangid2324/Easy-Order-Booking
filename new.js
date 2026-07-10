@@ -1,5 +1,5 @@
 let products = [
-  // 👇 यहाँ से तुम product add करोगे (CODE SE)
+  
   {
     name: "Shoes",
     price: "₹999",
@@ -42,7 +42,7 @@ function render() {
 render();
 
 function buyNow(name, price) {
-    let phone = "917737449178"; // +91 ke saath number
+    let phone = "917737449178"; 
 
     let message =
 `New Order
