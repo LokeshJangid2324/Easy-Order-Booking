@@ -14,7 +14,24 @@ let products = [
         price:"₹45,999",
         old:"₹55,999",
         discount:"18% OFF"
-    }
+    },
+    {
+        img:"earbuds.jpeg",
+        name:"Bluthouth Earbuds",
+        rating:"4.2 ⭐",
+        price:"₹999",
+        old:"₹1,499",
+        discount:"33% OFF"
+    },
+    {
+        img:"shirt.jpeg",
+        name:"Cotton Shirt",
+        rating:"4.0 ⭐",
+        price:"₹267",
+        old:"₹499",
+        discount:"45% OFF"
+    },
+    
 ];
 
 
