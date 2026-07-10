@@ -1,0 +1,118 @@
+body
+ {
+  font-family: Arial;
+  margin: 0;
+  background: #11ad2b;
+
+}
+header {
+  background: rgb(15, 187, 35);
+  color: white;
+  padding: 15px;
+  text-align: center;
+  font-size: 22px;
+}
+#catalog {
+    width: 90%;
+    margin: 20px auto;
+}
+
+.product {
+    display: flex;
+    gap: 30px;
+    padding: 20px;
+    border-bottom: 1px solid #ddd;
+    background: white;
+}
+
+.product img {
+    width: 220px;
+    height: 220px;
+    object-fit: contain;
+}
+
+.product-info {
+    flex: 1;
+}
+
+.product-info h2 {
+    font-size: 22px;
+    margin-bottom: 10px;
+}
+
+.rating {
+    background: green;
+    color: white;
+    padding: 5px 10px;
+    display: inline-block;
+    border-radius: 4px;
+}
+
+.price {
+    font-size: 25px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+
+.old-price {
+    text-decoration: line-through;
+    color: gray;
+    margin-left: 10px;
+}
+
+.discount {
+    color: green;
+    margin-left: 10px;
+}
+
+.delivery {
+    color: green;
+    margin: 10px 0;
+}
+
+button {
+    background: #ff9f00;
+    color: white;
+    border: none;
+    padding: 12px 25px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+
+button:hover {
+    background: #fb641b;
+}
+
+
+
+#cart {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    background: #ff9f00;
+    color: white;
+    padding: 10px 20px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.category-box {
+    position:absolute;
+    top: 20px;
+    left: 20px;
+    background: rgb(236, 158, 13);
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    
+}
+
+#category {
+    color:antiquewhite;
+    font-size: 20px;
+    font-weight:lighter;
+    font-family: Arial;
+    text-align: center;
+    text-decoration:solid;
+}
