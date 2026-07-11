@@ -91,9 +91,12 @@ button:hover {
     right: 20px;
     background: #ff9f00;
     color: white;
-    padding: 10px 20px;
+    padding: 10px 20
     border-radius: 10px;
     cursor: pointer;
+    display: flex;
+    gap: 10px;
+    z-index: 9999;
 }
 
 .category-box {
