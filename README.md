@@ -9,7 +9,7 @@ A Simple & User-Friendly Online Order Booking Website
 </h3>
 
 <p align="center">
-  <a href="https://lokeshjangid.github.io/Easy-Order-Booking/">
+  <a href="https://lokeshjangid2324.github.io/Easy-Order-Booking/">
     🌐 Live Demo
   </a>
 </p>
