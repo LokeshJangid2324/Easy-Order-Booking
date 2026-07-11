@@ -28,19 +28,19 @@ Is project ka goal ek fast, simple aur user-friendly online ordering experience 
 
 ✅ Product Listing <br>
 ✅ Add To Cart System <br>
-✅ Wishlist Option
-✅ Buy Now Button
-✅ Customer Details Form
-✅ Responsive Design
-✅ Easy Navigation
-✅ Mobile Friendly Interface
+✅ Wishlist Option <br>
+✅ Buy Now Button <br>
+✅ Customer Details Form <br>
+✅ Responsive Design <br>
+✅ Easy Navigation <br>
+✅ Mobile Friendly Interface <br>
 
 ---
 
 ## 🛠️ Technologies Used
 
 <p>
-<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5">
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"> 
 <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript">
 </p>
@@ -60,7 +60,7 @@ Is project ka goal ek fast, simple aur user-friendly online ordering experience 
 ```text
 Easy-Order-Booking
 │
-├── index.html
+├── index.html 
 ├── style.css
 ├── script.js
 ├── images/
@@ -77,11 +77,11 @@ Easy-Order-Booking
 
 ## 🎯 Future Improvements
 
-🚀 Payment Gateway Integration
-🚀 User Login & Signup System
-🚀 Database Integration
-🚀 Order Tracking Feature
-🚀 Admin Dashboard
+🚀 Payment Gateway Integration<br>
+🚀 User Login & Signup System<br>
+🚀 Database Integration<br>
+🚀 Order Tracking Feature<br>
+🚀 Admin Dashboard<br>
 
 ---
 
