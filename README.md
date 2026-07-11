@@ -26,8 +26,8 @@ Is project ka goal ek fast, simple aur user-friendly online ordering experience 
 
 ## ✨ Features
 
-✅ Product Listing \n
-✅ Add To Cart System \n
+✅ Product Listing <br>
+✅ Add To Cart System <br>
 ✅ Wishlist Option
 ✅ Buy Now Button
 ✅ Customer Details Form
