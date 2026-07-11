@@ -132,8 +132,8 @@ Agar aap is project me kuch improve karna chahte hain to:
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
 </a>
 
-<a href="YOUR_TWITTER_LINK">
-<img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x">
+<a href="YOUR_TELEGRAM_LINK">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram">
 </a>
 
 <a href="YOUR_TWITTER_LINK">
