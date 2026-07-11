@@ -72,7 +72,7 @@ products.forEach(product => {
                 Free Delivery | 7 days replacement
             </p>
 
-            <button onclick="popup('Submit Your Details')" >
+            <button onclick="Buy Now('${product.img}','${product.Name}','${product.price}')">
             Buy Noy
             </button>
             <button onclick="alert('Added To Cart')">
@@ -86,3 +86,20 @@ products.forEach(product => {
     `;
 
 });
+
+render();
+
+function Buy Now(image, name, price)
+{
+    let phone = "917737449178";
+    let messsage = 'New Order \n 
+        I Am Intrested IN Buying This Product\n
+    Item Details:
+    ${image}
+    product: ${name}
+price: ${price}
+    PLease Confirm This Order.';
+
+    let url='https://wa.me/${phone}?text=${encodeURIComponent(message)}';
+    window.open(url,  "_blank");
+}
