@@ -89,17 +89,15 @@ products.forEach(product => {
 
 render();
 
-function Buy Now(image, name, price)
-{
+function BuyNow(image, name, price) {
     let phone = "917737449178";
-    let messsage = 'New Order \n 
-        I Am Intrested IN Buying This Product\n
+    let message = `New Order\n
+    I am interested in buying this product.\n
     Item Details:
-    ${image}
-    product: ${name}
-price: ${price}
-    PLease Confirm This Order.';
-
-    let url='https://wa.me/${phone}?text=${encodeURIComponent(message)}';
-    window.open(url,  "_blank");
+    \n${image}\n
+    Product: ${name}\n
+    Price: ${price}\n
+    \nPlease confirm this order.`;
+    let url = `https://wa.me/${phone}?text=${encodeURIComponent(message)}`;
+    window.open(url, "_blank");
 }
