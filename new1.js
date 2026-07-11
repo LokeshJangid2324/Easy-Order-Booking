@@ -1,6 +1,6 @@
 let products = [
     {
-        img:"tshirt.jpeg",
+        img:"tshirt.jpg",
         name:"Trendint Soft Fabric T-Shirt",
         rating:"4.5 ⭐",
         price:"₹399",
