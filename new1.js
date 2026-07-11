@@ -1,18 +1,18 @@
 let products = [
     {
-        img:"T-Shirt.jpeg",
-        name:"Samsung Galaxy Mobile",
+        img:"tShirt.jpeg",
+        name:"Trendint Soft Fabric T-Shirt",
         rating:"4.5 ⭐",
-        price:"₹15,999",
-        old:"₹19,999",
+        price:"₹399",
+        old:"₹499",
         discount:"20% OFF"
     },
     {
         img:"watch.jpeg",
-        name:"HP Laptop",
+        name:"Primiuem Water proof Watch ",
         rating:"4.3 ⭐",
-        price:"₹45,999",
-        old:"₹55,999",
+        price:"₹999",
+        old:"₹1199",
         discount:"18% OFF"
     },
     {
