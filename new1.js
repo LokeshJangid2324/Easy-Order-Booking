@@ -72,10 +72,10 @@ products.forEach(product => {
                 Free Delivery | 7 days replacement
             </p>
 
-            <button >
+            <button onclick="popup('Submit Your Details')" >
             Buy Noy
             </button>
-            <button oneclick="alert('Added To Cart')">
+            <button onclick="alert('Added To Cart')">
                 Add to Cart
             </button>
 
