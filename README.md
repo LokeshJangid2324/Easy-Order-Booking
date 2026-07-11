@@ -26,8 +26,8 @@ Is project ka goal ek fast, simple aur user-friendly online ordering experience 
 
 ## ✨ Features
 
-✅ Product Listing
-✅ Add To Cart System
+✅ Product Listing \n
+✅ Add To Cart System \n
 ✅ Wishlist Option
 ✅ Buy Now Button
 ✅ Customer Details Form
@@ -71,7 +71,7 @@ Easy-Order-Booking
 
 ## 🌐 Live Website
 
-🔗 https://lokeshjangid.github.io/Easy-Order-Booking/
+🔗 https://lokeshjangid2324.github.io/Easy-Order-Booking/
 
 ---
 
