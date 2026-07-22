@@ -124,15 +124,15 @@ Agar aap is project me kuch improve karna chahte hain to:
 ## 🌐 Social Media
 
 <p>
-<a href="YOUR_LINKEDIN_LINK">
+<a href="https://www.linkedin.com/in/lokesh-jangra-b9b145402?utm_source=share_via&utm_content=profile&utm_medium=member_android">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
 </a>
 
-<a href="YOUR_INSTAGRAM_LINK">
+<a href="https://www.instagram.com/lokesh_hindu_001?igsh=MWQxd3IwN2txMzlneA==">
 <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram">
 </a>
 
-<a href="YOUR_TELEGRAM_LINK">
+<a href="https://t.me/Lokesh_Jangid_001">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram">
 </a>
 
